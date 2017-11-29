@@ -1,6 +1,6 @@
 {
   "name": "ablb-salesforce-3",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "jsForce wrapper for ease of use",
   "main": "dist/index.js",
   "scripts": {
