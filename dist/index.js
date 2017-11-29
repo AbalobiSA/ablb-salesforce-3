@@ -221,6 +221,6 @@ class Salesforce {
         });
     }
 }
-module.exports = { Salesforce };
+exports.Salesforce = Salesforce;
 
 //# sourceMappingURL=index.js.map

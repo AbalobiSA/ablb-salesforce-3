@@ -4,7 +4,7 @@ import sanitize from "sanitize-filename";
 import * as fs from 'fs';
 import Secrets from "./Secrets";
 
-class Salesforce {
+export class Salesforce {
 
     private secrets: Secrets;
 
@@ -232,20 +232,6 @@ class Salesforce {
         })
     }
 }
-
-
-module.exports = {Salesforce};
-
-
-
-
-
-
-
-
-
-
-
 
 
 
